@@ -14,7 +14,7 @@ Every collaborator is free to share it's opinion without any restriction within 
 ## no personal attacks or any kind of insults
 Any kind of blaming is *NOT ALLOWED*.
 It's fine to not agree with someone, but it's *NOT ALLOWED* to blame any of it's political or religious opinions.
-Personal attacks are *NOT ALLOWED*, but it's *ALLOWED* to argument against any kind of project related idea or project related technical decision.
+Personal attacks are *NOT ALLOWED*, but it's *ALLOWED* to argument against any kind of project related ideas or project related technical decisions.
 
 ## the project shares no non technical opionion
 Everyone who interacts with any project related work *MUST* ensure that it's don't share any non technical (especially political/religious) ideas in the name of the project.
