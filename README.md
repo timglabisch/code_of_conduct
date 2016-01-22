@@ -13,7 +13,7 @@ ANY response about ANY social opinion is by definition a social opinion.
 
 Examples for social opinions are any kind of gender identity, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
 
-## no social opinion
+## no social opinions
 Project related work *MUST NOT* contain any social opinion.
 
 ## every form of gender / pronoun is allowed at any time and means exacly the same.
@@ -44,7 +44,7 @@ Personal attacks are *NOT ALLOWED*, but it's *ALLOWED* to argument against any k
 
 Argue against an idea or a technical decision is a constructive contribution and has nothing todo with the author of the idea or technical decision.
 
-## the project shares no non technical opionion
+## the project shares no non technical opionions
 Everyone who interacts with any project related work *MUST* ensure that it's don't share any non technical (especially no social) ideas in the name of the project.
 The Project *MUST NOT* share non-technical ideas or values.
 
