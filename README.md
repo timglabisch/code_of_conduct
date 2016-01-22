@@ -44,7 +44,7 @@ Personal attacks are *NOT ALLOWED*, but it's *ALLOWED* to argument against any k
 
 Argue against an idea or a technical decision is a constructive contribution and has nothing todo with the author of the idea or technical decision.
 
-## the project shares no non technical opionions
+## the project shares no non technical opinions
 Everyone who interacts with any project related work *MUST* ensure that it's don't share any non technical (especially no social) ideas in the name of the project.
 The Project *MUST NOT* share non-technical ideas or values.
 
