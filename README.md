@@ -11,7 +11,7 @@ This also includes ANY statements about ANY collaborator that is not technically
 A social opinion also includes ANY personal feelings about everyone (including yourself).
 ANY response about ANY social opinion is by definition a social opinion.
 
-Examples for social opinions are any kind of gender identity, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
+Examples of social opinions: gender identity, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
 
 ## no social opinions
 Project related work *MUST NOT* contain any social opinion.
