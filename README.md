@@ -3,7 +3,7 @@ THIS IS WORK IN PROGRESS
 
 # Code Matters Code Of Conduct
 
-## definitons
+## definitions
 
 ### social opinion
 A social opinion includes any kind of political, religious or gender specific statement.
