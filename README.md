@@ -67,8 +67,7 @@ The Project *MUST NOT* share non-technical ideas or values.
 
 
 ### no room for ambiguity
-Avoid and kind of ambiguity.
-todo
+To avoid talking past each other, every collaborator *MUST* ensure writing in a non ambiguous way.
 
 
 ### no condescending advice
