@@ -15,13 +15,27 @@ Examples of social opinions: gender identity, sexual orientation, disability, pe
 
 
 ### collaborator
-Every mammal (including humans) who contribute or try to contribute to the project.
+Everyone who contribute or try to contribute to the project.
 
+### supervisor
+Everyone who has merge access.
 
 ### the project
 The project includes ANY work that is related to the project.
 The project also includes ANY public communication about the project.
 
+
+### Code of Conduct violation note
+Every violation note is limited to just this statement:
+;i-feel-bad-and-coc-saves-me;[E-MAIL OF THE COLLABORATOR YOU FEEL ATTACKED BY];
+
+A violation note *MUST NOT* contain ANY kind of statement why you feel that this is a violation.
+
+For non supervisors:
+Every violation note *MUST* come with an E-Mail (at least 12h after adding the violation note) to coc@[project.org].
+This E-Mail *MUST* contain a personal explanation why you feel that is a violation against the coc and why you're affected by this.
+
+By sending the E-Mail you agree that this explanation can be shared with the attacker and the community.
 
 ## Rules
 
@@ -50,10 +64,10 @@ It's *NOT ALLOWED* to share any social opinions, in the context of the project. 
 We believe that ignoring any kind of social statements is the best way avoid non technical conflicts between collaborators.
 
 
-### discuss or debate the idea, not the person.
-Any kind of personal attacks is *NOT ALLOWED*.
-It's fine to not agree with a collaborator. It's *NOT ALLOWED* to note *ANY* kind of social opinion of ANY collaborator.
-Argue for and against an idea is a constructive contribution and *MUST NOT* contain any social opinion.
+### discuss or debate the idea, not a collaborator.
+Any kind of personal attack is *NOT ALLOWED*.
+It's fine to not agree with a collaborator. It's *NOT ALLOWED* to note *ANY* kind of social opinion to ANY collaborator.
+Argue for and against an idea is a constructive contribution but *MUST NOT* contain any social opinion.
 
 
 ### discuss or debate the technology around project, nothing more.
@@ -70,10 +84,34 @@ The Project *MUST NOT* share non-technical ideas or values.
 To avoid talking past each other, every collaborator *MUST* ensure writing in a non ambiguous way.
 
 
-### no condescending advice
-todo
+### no advice on collaborators
+Collaborators *MUST NOT* take any kind of advice on other Collaborators.
+It is *NOT ALLOWED* to tell any collaborator what he/she/it has to do.
+
+Examples of *NOT ALLOWED* advice:
+You should read this blog post.
+You would understand it, if you would read this blog post.
+
+Both of this sentences could be rewritten this way:
+The idea i mentioned is described in this blog post.
 
 
 ### indication of violations
-todo
+The code of conduct *MUST* only be discussed here: <link>
+Disturbing the project is *NOT ALLOWED*.
 
+If YOU feel affected by a violation against the code of conduct you're *LIMITED TO*:
+- Add a code of conduct violation note.
+- Ping a supervisor.
+
+Supervisors are *ALLOWED* to:
+- Add a code of conduct violation note, even if they don't feel like a victim of the violation.
+- Close or drop the entire discussion.
+- Remove any kind of code of conduct notes.
+- Adding the statement "This is not a code of conduct violation." (without any explanation).
+
+If a supervisor removed your code of conduct note or decided that there is no code of conduct violation,
+you *MUST NOT* add another note related to the same topic.
+
+You *MUST NOT* discuss any decision of any supervisor related to the code of conduct.
+If you don't feel well on the decision of a supervisor, feel free to ask for a private chat.
