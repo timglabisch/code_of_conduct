@@ -29,13 +29,17 @@ The project also includes ANY public communication about the project.
 Every violation note is limited to just this statement:
 ;i-feel-bad-and-coc-saves-me;[E-MAIL OF THE COLLABORATOR YOU FEEL ATTACKED BY];
 
-A violation note *MUST NOT* contain ANY kind of statement why you feel that this is a violation.
+Violation notes *MUST NOT* contain ANY kind of explanations about the violation.
 
 For non supervisors:
 Every violation note *MUST* come with an E-Mail (at least 12h after adding the violation note) to coc@[project.org].
-This E-Mail *MUST* contain a personal explanation why you feel that is a violation against the coc and why you're affected by this.
+The E-Mail *MUST* at least contain:
+- Link to the violation
+- Explanation why YOU feel that this is a violation.
+- Explanation why YOU are affected by this violation.
 
-By sending the E-Mail you agree that this explanation can be shared with the attacker and the community.
+By sending the E-Mail you agree that a supervisor *CAN* (*NOT MUST*) contact you.
+Every supervisor *IS ALLOWED* to share your explanation with the attacker and the community.
 
 ## Rules
 
@@ -44,7 +48,7 @@ Project related work *MUST NOT* contain any social opinion.
 
 
 ### every form of gender / pronoun is allowed at any time and means exactly the same.
-Everyone who interacts with any project related work *CAN* be addressed (in the context of the project) using *"he"*, *"she"* AND *"it"*.
+Everyone who interacts with the project *CAN* be addressed (in the context of the project) using *"he"*, *"she"* AND *"it"*.
 *Every usage of any gender/pronoun is correct at any time* regardless of the gender the addressed feels like.
 
 For example these sentences are valid to address any collaborator at any time:
@@ -57,7 +61,7 @@ We believe that no collaborator is a more or less good collaborator.
 
 
 ### outside of the project, everyone is free
-Everyone who interacts with any project related work, *MUST* respect the freedom of any project collaborator.
+Everyone who interacts the project *MUST* respect the freedom of any project collaborator.
 Every collaborator is free to share it's opinion (including social opinion) *WITHOUT ANY* restriction.
 It's *NOT ALLOWED* to share any social opinions, in the context of the project. Even if you feel like a victim.
 
